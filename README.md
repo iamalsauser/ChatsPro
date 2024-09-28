@@ -1,6 +1,6 @@
-# chatspro
+# Comet
 
-A new Flutter project.
+A new Flutter project for building an modern cross-platform applicartion for Comet (https://www.wearcomet.com/?srsltid=AfmBOoo-DheyWqjuvLKw9qUB2u9V3AZUIC0xu8dVgLt8MOzXeKywpHpV)
 
 ## Getting Started
 
