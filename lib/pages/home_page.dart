@@ -1,5 +1,6 @@
 import 'package:chatspro/components/bottom_nav_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:chatspro/components/bottom_nav_bar.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -8,8 +9,8 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       bottomNavigationBar: BottomNavBar(
-        ),
-      backgroundColor: Colors.grey[300],
+        onTabChange: (int) {},
+      ),
     );
   }
 }
